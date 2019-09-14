@@ -204,6 +204,7 @@ void viewsheet()
     printf("Enter 1 to continue:");
     getch();
 }
+
 void clearquestions()
 {
     frq=0;
